@@ -8,7 +8,7 @@ const config = {
   CSV: './Sample_Data.csv',
   center: [59.534,60.606],
   zoom: 3.79,
-  title: 'GAZPROM_TERMINAL',
+  title: 'GAZPROMNEFT TERMINAL',
   description:
     'Presentation of the company objects.',
   sideBarInfo: ['View_Object', 'Status', 'Object'],
@@ -107,23 +107,18 @@ const config = {
     },
     {
       type: 'checkbox',
-      title: 'Devices available: ',
-      columnHeader: 'Devices_available', // Case sensitive - must match spreadsheet entry
-      listItems: ['Computer', 'Wi-Fi', 'Adaptive Laptops'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+      title: 'View Object: ',
+      columnHeader: 'View_Object', // Case sensitive - must match spreadsheet entry
+      listItems: ['Testing Laboratory', 'Oil base'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       type: 'dropdown',
-      title: 'Clients: ',
-      columnHeader: 'Clients',
+      title: 'Status: ',
+      columnHeader: 'Status',
       listItems: [
-        'Adults',
-        'Disabled',
-        'Homeless',
-        'Immigrants/Refugees',
-        'Low Income',
-        'Seniors',
-        'Youth: Pre-teen',
-        'Youth: Teen',
+        'Exploitation',
+        'Reconstruction',
+        'Conservation',
       ],
     },
   ],
