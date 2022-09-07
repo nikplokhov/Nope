@@ -1,0 +1,86 @@
+View_Object,Provinve_City,Latitude,Longitude,Province,Object,Post_code,Country,Status,OBJ
+Testing Laboratory,Barabinsk,55.4461238,78.32486886,Novosibirskaya oblast,Laboratory Barabinsk,632336,Russia,Exploitation,Testing Laboratory Barabinsk
+Testing Laboratory,Barnaul,53.36435234,83.80035473,Altayskiy kray,Laboratory Barnaul,656004,Russia,Exploitation,Testing Laboratory Barnaul
+Testing Laboratory,Borskiy rayon,56.47450151,44.07610062,Nizhegorodskaya oblast,Laboratory Zuevo,606471,Russia,Exploitation,Testing Laboratory Zuevo
+Testing Laboratory,Gurevsk,54.2862657,85.99585009,Kemerovskaya oblast,Laboratory Gurevsk,652785,Russia,Exploitation,Testing Laboratory Gurevsk
+Testing Laboratory,Dolgoprudnyy,55.96854307,37.47330222,Moskovskaya oblast,Laboratory Paveltsevo,141707,Russia,Exploitation,Testing Laboratory Paveltsevo
+Testing Laboratory,Ekaterinburg,56.82156527,60.65870117,Sverdlovskaya oblast,Laboratory Ekaterinburg,620100,Russia,Exploitation,Testing Laboratory Ekaterinburg
+Testing Laboratory,Ekaterinburg,56.82156527,60.65770117,Sverdlovskaya oblast,Laboratory Ekaterinburg,620000,Russia,Exploitation,Testing Laboratory Ekaterinburg
+Testing Laboratory,Ivanovo,57.01826566,40.99109818,Ivanovskaya oblast,Laboratory Ivanovo,153030,Russia,Exploitation,Testing Laboratory Ivanovo
+Testing Laboratory,Ishim,56.11282047,69.50184611,Tyumenskaya oblast,Laboratory Ishim,627750,Russia,Exploitation,Testing Laboratory Ishim
+Testing Laboratory,Kaluga,54.50094,36.3082242,Kaluzhskaya oblast,Laboratory Kaluga,248002,Russia,Exploitation,Testing Laboratory Kaluga
+Testing Laboratory,Kemerovo,55.32399946,85.9681642,Kemerovskaya oblast,Laboratory Kemerovo,650907,Russia,Exploitation,Testing Laboratory Kemerovo
+Testing Laboratory,Koozulka,56.17270749,91.40993275,Krasnoyarskiy kray,Laboratory Kozulka,662050,Russia,Exploitation,Testing Laboratory Kozulka
+Testing Laboratory,Krasnodar,45.04257661,39.08935714,Krasnodarskiy kray,Laboratory Krasnodar,350080,Russia,Exploitation,Testing Laboratory Krasnodar
+Testing Laboratory,Krasnoufimsk,56.59290294,57.77225986,Sverdlovskaya oblast,Laboratory Krasnoufimsk,623300,Russia,Exploitation,Testing Laboratory Krasnoufimsk
+Testing Laboratory,Krasnoyarsk,56.01656635,92.87292274,Krasnoyarskiy kray,Laboratory Krasnoyarsk,660049,Russia,Exploitation,Testing Laboratory Krasnoyarsk
+Testing Laboratory,Moskva,55.70874705,37.80764415,Moskovskaya oblast,Laboratory Moskva,109444,Russia,Exploitation,Testing Laboratory Moskva
+Testing Laboratory,NizhniyTagil,57.96467309,59.95352287,Sverdlovskaya oblast,Laboratory Nizhniy Tagil,622014,Russia,Exploitation,Testing Laboratory Nizhniy Tagil
+Testing Laboratory,Nobrsk,63.11379274,75.34130402,Tyumenskaya oblast,Laboratory Noyabrsk,629800,Russia,Exploitation,Testing Laboratory Noyabrsk
+Testing Laboratory,Novokuznetsk,53.73406419,87.16108518,Kemerovskaya oblast,Laboratory Novokuznetsk,654018,Russia,Exploitation,Testing Laboratory Novokuznetsk
+Testing Laboratory,Novosibirsk,55.03950275,82.87864027,Novosibirskaya oblast,Laboratory Novosibirsk,630024,Russia,Exploitation,Testing Laboratory Novosibirsk
+Testing Laboratory,Novosibirsk,54.95794205,82.92382795,Novosibirskaya oblast,Laboratory Novosibirsk,630024,Russia,Exploitation,Testing Laboratory Novosibirsk
+Testing Laboratory,Omsk,55.08762851,73.23318088,Omskaya oblast,Laboratory Omsk,644035,Russia,Exploitation,Testing Laboratory Omsk
+Testing Laboratory,Sankt-Peterburg,59.88683672,30.37466363,Leningradskaya oblast,Laboratory Sankt-Peterburg,192102,Russia,Exploitation,Testing Laboratory Sankt-Peterburg
+Testing Laboratory,Serov,59.59825174,60.54623598,Sverdlovskaya oblast,Laboratory Serov,624980,Russia,Exploitation,Testing Laboratory Serov
+Testing Laboratory,Tomskiy rayon,56.58152551,85.13191985,Tomskaya oblast,Laboratory Tomsk,634000,Russia,Exploitation,Testing Laboratory Tomsk
+Testing Laboratory,Tosnenskiy rayon,59.64703623,30.83930291,Leningradskaya oblast,Laboratory Gladkoe,187037,Russia,Exploitation,Testing Laboratory Gladkoe
+Testing Laboratory,Tyumenskiy rayon,57.16710283,65.85956193,Tyumenskaya oblast,Laboratory Turinsk,625512,Russia,Exploitation,Testing Laboratory Turinsk
+Testing Laboratory,Tyumenskiy rayon,58.411993,68.40970091,Tyumenskaya oblast,Laboratory Tobolsk,626142,Russia,Exploitation,Testing Laboratory Tobolsk
+Testing Laboratory,Fedorovka,55.07483311,61.32889131,Chelyabinskaya oblast,Laboratory Fedorovskaya,454901,Russia,Exploitation,Testing Laboratory Fedorovskaya
+Testing Laboratory,Chelyabinsk,55.27754895,61.39969694,Chelyabinskaya oblast,Laboratory Chelyabinsk,454047,Russia,Exploitation,Testing Laboratory Chelyabinsk
+Oil base,Artemovskiy,57.3110771,61.8932125,Sverdlovskaya oblast,Artemovskaya,623783,Russia,Conservation,Oil base Artemovskaya
+Oil base,Barabinsk,55.34638538,78.38740785,Novosibirskaya oblast,Barabinskaya,632336,Russia,Exploitation,Oil base Barabinskaya
+Oil base,Barnaul,53.36373303,83.80105636,Altayskiy kray,Barnaulskaya,656004,Russia,Exploitation,Oil base Barnaulskaya
+Oil base,Beloyarskiy rayon,56.73092942,61.35740821,Sverdlovskaya oblast,Bazhenovskaya,624030,Russia,Exploitation,Oil base Bazhenovskaya
+Oil base,Bogdanovich,56.77925486,62.02882149,Sverdlovskaya oblast,Bogdanovichskaya,623531,Russia,Conservation,Oil base Bogdanovichskaya
+Oil base,Bolotnoe,55.65447645,84.36243751,Novosibirskaya oblast,Bolotninskaya,633340,Russia,Conservation,Oil base Bolotninskaya
+Oil base,Bor,56.47450151,44.07510062,Nizhegorodskaya oblast,Zuevskaya,606471,Russia,Exploitation,Oil base Zuevskaya
+Oil base,Gurevsk,54.2862657,85.99485009,Kemerovskaya oblast,Gurevskaya,652765,Russia,Exploitation,Oil base Gurevskaya
+Oil base,Dmitrov,56.37898325,37.52252277,Moskovskaya oblast,Dmitrovskaya,141801,Russia,Conservation,Oil base Dmitrovskaya
+Oil base,Dolgoprudnyy,55.96907146,37.46712239,Moskovskaya oblast,Paveltsevskaya,141727,Russia,Exploitation,Oil base Paveltsevskaya
+Oil base,Evsino,54.5154098,83.35375178,Novosibirskaya oblast,Evsinskaya,633220,Russia,Exploitation,Oil base Evsinskaya
+Oil base,Ekaterinburg,56.70651292,60.74522937,Sverdlovskaya oblast,Shabrovskaya,620904,Russia,Exploitation,Oil base Shabrovskaya
+Oil base,Ivanovo,57.01826566,40.99009818,Ivanovskaya oblast,Ivanovskaya,153030,Russia,Exploitation,Oil base Ivanovskaya
+Oil base,Irbit,57.67035997,63.03802734,Sverdlovskaya oblast,Irbitskaya,623850,Russia,Conservation,Oil base Irbitskaya
+Oil base,Isilkul,54.90782575,71.24778471,Omskaya oblast,Isilkulskaya,646025,Russia,Conservation,Oil base Isilkulskaya
+Oil base,Ishim,56.11282047,69.50084611,Tyumenskaya oblast,Ishimskaya,627753,Russia,Exploitation,Oil base Ishimskaya
+Oil base,Kaluga,54.54330851,36.35206287,Kaluzhskaya oblast,Kaluzhskaya,248926,Russia,Conservation,Oil base Kaluzhskaya
+Oil base,Kamensk-Uralskiy,56.41874556,61.93874503,Sverdlovskaya oblast,Kamensk-Uralskaya,623428,Russia,Conservation,Oil base Kamensk-Uralskaya
+Oil base,Karasuk,53.72415846,78.04246517,Novosibirskaya oblast,Karasukskaya,632868,Russia,Conservation,Oil base Karasukskaya
+Oil base,Kargat,55.18571062,80.30846387,Novosibirskaya oblast,Kargatskaya,632400,Russia,Conservation,Oil base Kargatskaya
+Oil base,Kemerovo,55.32399946,85.9671642,Kemerovskaya oblast,Kemerovskaya,650907,Russia,Reconstruction,Oil base Kemerovskaya
+Oil base,Kineshma,57.45163907,42.14063355,Ivanovskaya oblast,Kineshemskaya,155806,Russia,Conservation,Oil base Kineshemskaya
+Oil base,Kozulka,56.17270749,91.40893275,Krasnoyarskiy kray,Kozulskaya,662050,Russia,Exploitation,Oil base Kozulskaya
+Oil base,Krasnogorskiy,54.58869405,61.21383248,Chelyabinskaya oblast,Krasnogorskaya,456581,Russia,Conservation,Oil base Krasnogorskaya
+Oil base,Krasnodar,45.04257661,39.08835714,Krasnodarskiy kray,Krasnodarskaya,350080,Russia,Conservation,Oil base Krasnodarskaya
+Oil base,Krasnoufimsk,56.59290294,57.77125986,Sverdlovskaya oblast,Krasnoufimskaya,623300,Russia,Exploitation,Oil base Krasnoufimskaya
+Oil base,Krasnyy Yar,54.45892105,82.16772844,Novosibirskaya oblast,Ordynskaya,633271,Russia,Conservation,Oil base Ordynskaya
+Oil base,Kstovo,56.11237185,44.13228003,Nizhegorodskaya oblast,Kstovskaya,607672,Russia,Conservation,Oil base Kstovskaya
+Oil base,Marinsk,56.21754302,87.74416225,Kemerovskaya oblast,Mariinskaya,652154,Russia,Conservation,Oil base Mariinskaya
+Oil base,Maslyanskiy,55.93159519,70.13088096,Tyumenskaya oblast,Maslyanskiy tovarnyy park,627600,Russia,Conservation,Oil base Maslyanskiy
+Oil base,Nevyansk,57.48971119,60.1866546,Sverdlovskaya oblast,Nevyanskaya,624191,Russia,Conservation,Oil base Nevyanskaya
+Oil base,Nobrsk,63.12677116,75.36167205,Tyumenskaya oblast,Noyabrskaya,629811,Russia,Exploitation,Oil base Noyabrskaya
+Oil base,Novo-Sineglazovo,55.03362903,61.36977135,Chelyabinskaya oblast,Novo-Sineglazovskaya,454904,Russia,Conservation,Oil base Novo-Sineglazovskaya
+Oil base,Novokuznetsk,53.73506161,87.15856012,Kemerovskaya oblast,Novokuznetskaya,654018,Russia,Exploitation,Oil base Novokuznetskaya
+Oil base,Novosibirsk,54.95547103,82.92687356,Novosibirskaya oblast,Novosibirskaya,630024,Russia,Exploitation,Oil base Novosibirskaya
+Oil base,Omsk,55.08762851,73.23218088,Omskaya oblast,Omskaya,644040,Russia,Exploitation,Oil base Omskaya
+Oil base,Omsk,54.92060857,73.32043051,Omskaya oblast,Kulomzinskaya,644036,Russia,Conservation,Oil base Kulomzinskaya
+Oil base,Omutinskoe,56.46616888,67.66187789,Tyumenskaya oblast,Omutinskiy tovarnyy park,627070,Russia,Conservation,Oil base Omutinskiy
+Oil base,Porotnikovo,57.00851861,82.35643486,Novosibirskaya oblast,Kargapolovskaya,636213,Russia,Conservation,Oil base Kargapolovskaya
+Oil base,Rudnik,57.96467309,59.95252287,Sverdlovskaya oblast,Nizhnetagilskaya,622014,Russia,Exploitation,Oil base Nizhnetagilskaya
+Oil base,Rybinsk,58.03357744,38.91837613,Yaroslavskaya oblast,Rybinskaya,152908,Russia,Conservation,Oil base Rybinskaya
+Oil base,Serov,59.59825174,60.54523598,Sverdlovskaya oblast,Serovskaya,624997,Russia,Conservation,Oil base Serovskaya
+Oil base,Skala,55.37590086,82.75307316,Novosibirskaya oblast,Skalinskaya,633180,Russia,Conservation,Oil base Skalinskaya
+Oil base,Sokur,55.19355894,83.27355145,Novosibirskaya oblast,Sokurskaya,633121,Russia,Exploitation,Oil base Sokurskaya
+Oil base,Sosnovskiy rayon,55.07483311,61.32789131,Chelyabinskaya oblast,Fedorovskaya,454901,Russia,Exploitation,Oil base Fedorovskaya
+Oil base,Tatarsk,55.2008116,75.97565207,Novosibirskaya oblast,Tatarskaya,632121,Russia,Conservation,Oil base Tatarskaya
+Oil base,Tobolskiy rayon,58.17059008,68.27337871,Tyumenskaya oblast,Tobolskaya,626153,Russia,Exploitation,Oil base Tobolskaya
+Oil base,Tomskiy rayon,56.59004737,85.13981344,Tomskaya oblast,Tomskaya,634537,Russia,Exploitation,Oil base Tomskaya
+Oil base,Tosnenskiy rayon,59.64948121,30.83598425,Leningradskaya oblast,Gladkoe,187037,Russia,Exploitation,Oil base Gladkoe
+Oil base,Troitskiy,57.05738173,63.71222417,Sverdlovskaya oblast,Talitskaya,623641,Russia,Exploitation,Oil base Talitskaya
+Oil base,Turtas,58.93574635,69.1515499,Tyumenskaya oblast,Tovarnyy park Turtas,626191,Russia,Conservation,Oil base Tovarnyy park Turtas
+Oil base,Tyumenskiy rayon,57.16710283,65.85946193,Tyumenskaya oblast,Turinskaya,625000,Russia,Reconstruction,Oil base Turinskaya
+Oil base,Chistoozernoe,54.71354556,76.57805327,Novosibirskaya oblast,Chistoozernaya,632720,Russia,Conservation,Oil base Chistoozernaya
+Oil base,Chulym,55.11610374,80.97703565,Novosibirskaya oblast,Chulymskaya,632552,Russia,Conservation,Oil base Chulymskaya
+Oil base,Yalutovsk,56.66267798,66.30715199,Tyumenskaya oblast,Yalutorovskaya,627014,Russia,Conservation,Oil base Yalutorovskaya
