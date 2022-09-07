@@ -8,16 +8,16 @@ const config = {
   CSV: './Sample_Data.csv',
   center: [59.534,60.606],
   zoom: 3.79,
-  title: 'Replace with your title',
+  title: 'GAZPROM_TERMINAL',
   description:
-    'Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.',
-  sideBarInfo: ['Location_Name', 'Address', 'Phone'],
-  popupInfo: ['Location_Name'],
+    'Presentation of the company objects.',
+  sideBarInfo: ['View_Object', 'Status', 'OBJ'],
+  popupInfo: ['OBJ'],
   filters: [
     {
       type: 'dropdown',
-      title: 'Languages supported: ',
-      columnHeader: 'Languages',
+      title: 'Object: ',
+      columnHeader: 'OBJ',
       listItems: [
         'Amharic',
         'ASL',
