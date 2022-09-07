@@ -2,7 +2,7 @@
 
 // eslint-disable-next-line no-unused-vars
 const config = {
-  style: 'mapbox://styles/mapbox/light-v10',
+  style: 'mapbox://styles/nikplokhov/cl6kgy7jv006114nk3mankaw5',
   accessToken:
     'pk.eyJ1IjoibmlrcGxva2hvdiIsImEiOiJjbDZlc252angxZXA2M2lxbDZ6YTFpaXFuIn0.d33_GQ1uZh7AMMCSI6ZJBg',
   CSV: './Sample_Data.csv',
