@@ -5,7 +5,7 @@ const config = {
   style: 'mapbox://styles/nikplokhov/cl6kgy7jv006114nk3mankaw5',
   accessToken:
     'pk.eyJ1IjoibmlrcGxva2hvdiIsImEiOiJjbDZlc252angxZXA2M2lxbDZ6YTFpaXFuIn0.d33_GQ1uZh7AMMCSI6ZJBg',
-  CSV: './nikitapl.csv',
+  CSV: './Sample_Data.csv',
   center: [59.534,60.606],
   zoom: 3.79,
   title: 'GAZPROMNEFT TERMINAL',
